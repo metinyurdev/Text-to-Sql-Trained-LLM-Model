@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
 ![Transformers](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?style=for-the-badge&logo=huggingface)
+![Unsloth](https://img.shields.io/badge/Unsloth-Efficient%20Fine%20Tuning-blue?style=for-the-badge&logo=unsloth)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange?style=for-the-badge&logo=googlecolab)
 
 ## 📌 About the Project
