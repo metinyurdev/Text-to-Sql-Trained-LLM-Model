@@ -57,7 +57,7 @@ For any contributions and feedback, please open a **Pull Request** or create an 
 ## 👨‍💻 Author
 **Metin Yurduseven**  
 🔗 [GitHub](https://github.com/metinyurdev)  
-📧 metin.yurduseven@gmail.com
+📧 metin.yrdsvn@gmail.com
 
 
 ---
